@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushant23-git
 - 👀 I’m interested in Games, Art and devdevelopment 
-- 🌱 I’m currently learning python and c language 
+- 🌱 I’m currently learning python,HTML and c Language
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 You can reach me with my LinkedIn account 
 
