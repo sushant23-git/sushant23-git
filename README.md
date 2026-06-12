@@ -77,13 +77,13 @@ Currently focused on developing intelligent systems, enterprise web applications
 ### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,supabase" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,arduino,postman" />
+<img src="https://skillicons.dev/icons?i=,git,github,vscode,arduino" />
 </p>
 
 ---
