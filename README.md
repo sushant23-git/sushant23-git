@@ -34,8 +34,6 @@
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=sushant23-git\&style=for-the-badge\&color=6D28D9)
-![](https://img.shields.io/github/followers/sushant23-git?style=for-the-badge\&color=7C3AED)
-![](https://img.shields.io/github/stars/sushant23-git?style=for-the-badge\&color=8B5CF6)
 
 </div>
 
@@ -226,7 +224,7 @@ Computer vision powered gaming system enabling real-time interaction using webca
 
 <div align="center">
 
-<a href="https://www.hackerrank.com">
+<a href="https://www.hackerrank.com/profile/sushantgajbhiye1">
 <img src="https://img.shields.io/badge/HackerRank-Certified%20Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -243,16 +241,6 @@ Computer vision powered gaming system enabling real-time interaction using webca
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant23-git&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant23-git&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sushant23-git&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
